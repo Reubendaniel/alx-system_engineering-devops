@@ -1,1 +1,1 @@
-Shell, I/O Redirections and filters
+Script that displays a confused smiley
